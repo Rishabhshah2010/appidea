@@ -1,0 +1,16 @@
+.body{
+    background-color: blanchedalmond;
+}
+.Intro{
+    font-family: fantasy;
+    font-size: medium;
+    color: brown;
+}
+.navbar{
+    background-color: red;
+    color: antiquewhite;
+    height: 50%;
+}
+.GFG{
+    float: right;
+}
